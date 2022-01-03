@@ -1,0 +1,8 @@
+
+C:\Program Files\Apache Software Foundation\Tomcat 8.5>SET className=Scriptado 
+
+C:\Program Files\Apache Software Foundation\Tomcat 8.5>cd webapps\BricksJaume2\ScreenAddons 
+
+C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\BricksJaume2\ScreenAddons>START DeleteFromJar2 Scriptado 
+
+C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps\BricksJaume2\ScreenAddons>EXIT
